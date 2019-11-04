@@ -4,6 +4,7 @@
   grid-template-rows: repeat(5, 1fr);
   grid-gap: 10px;
   justify-content: center;
+  min-width: 900px;
 }
 
 .key {
